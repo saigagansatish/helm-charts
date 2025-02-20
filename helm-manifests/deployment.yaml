@@ -20,3 +20,5 @@ spec:
         image: gagan2104/cicd_poc:fc7874d
         ports:
         - containerPort: 8080
+
+        
